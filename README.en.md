@@ -1,8 +1,8 @@
-# gemini-4-argon & gemini-4-barium on tryallapi
+# Gemini 4 China access / usage summary
 
 [中文](./README.md) · Original article (Chinese, CSDN): <https://blog.csdn.net/xianyu120/article/details/167808730>
 
-On 2026-10-13, [tryallapi](https://tryallapi.com/) announced two new models: **gemini-4-argon** and **gemini-4-barium**. Descriptions below come from the tryallapi model marketplace only (no benchmarks run); check the site for specs such as context length.
+How to use **Gemini 4** (`gemini-4-argon` / `gemini-4-barium`) from China — pricing, endpoints, and examples in one place. On 2026-10-13, [tryallapi](https://tryallapi.com/) announced these models. See also the [TryGPT model list](https://trygpt.asia/list/#/home). Descriptions below come from the tryallapi model marketplace only (no benchmarks run); check the site for specs such as context length.
 
 - **gemini-4-argon** – site description: strong at coding, reasoning, multimodal and long-running multi-step tasks for enterprise workflows.
 - **gemini-4-barium** – site description: "Gemini4 internal iteration candidate prototype (Barium-B evolved into Argon)", million-token context, multimodal, code / legal-finance / vulnerability reasoning, tool calling.
@@ -30,5 +30,6 @@ Sign up: <https://tryallapi.com/register?aff=5A6A>
 
 ## Links
 
-- <https://tryallapi.com/>
-- <https://trygpt.asia/>
+- tryallapi: <https://tryallapi.com/>
+- TryGPT model list (API site): <https://trygpt.asia/list/#/home>
+- TryGPT homepage: <https://trygpt.asia/>

@@ -1,6 +1,6 @@
-# Gemini 4 双子星：gemini-4-argon & gemini-4-barium 调用指南（tryallapi）
+# gemini4国内使用方式汇总
 
-> **gemini-4-argon** 和 **gemini-4-barium** 已在 [tryallapi](https://tryallapi.com/) 上架，OpenAI 兼容接口 / Gemini 原生接口均可调用，一个 Key 直接用。
+> 国内如何用上 **Gemini 4**（`gemini-4-argon` / `gemini-4-barium`）——价格、端点、curl/Python 示例一页汇总。模型已在 [tryallapi](https://tryallapi.com/) 上架，OpenAI 兼容接口 / Gemini 原生接口均可调用，一个 Key 直接用。模型列表也可在 [TryGPT 模型列表](https://trygpt.asia/list/#/home) 查看。
 >
 > 原文（CSDN）：[Gemini 4 双子星上架：gemini-4-argon 和 gemini-4-barium，tryallapi 今天就能调](https://blog.csdn.net/xianyu120/article/details/167808730)
 
@@ -125,7 +125,7 @@ curl "https://tryallapi.com/v1beta/models/gemini-4-argon:generateContent" \
 
 ## 快速上手
 
-1. 注册：👉 [https://tryallapi.com/register?aff=5A6A](https://tryallapi.com/register?aff=5A6A)
+1. 注册：👉 [https://tryallapi.com/register?aff=5A6A](https://tryallapi.com/register?aff=5A6A)（也可先在 [TryGPT 模型列表](https://trygpt.asia/list/#/home) 查看可用模型）
 2. 充值
 3. 创建令牌（选对分组：Anti-Gemini-1 / Cli-Gemini-1）
 4. 把 `model` 改成 `gemini-4-argon` 或 `gemini-4-barium`
@@ -135,7 +135,8 @@ curl "https://tryallapi.com/v1beta/models/gemini-4-argon:generateContent" \
 ## 相关链接
 
 - tryallapi：<https://tryallapi.com/>
-- TryGPT：<https://trygpt.asia/>
+- TryGPT 模型列表（API 站点）：<https://trygpt.asia/list/#/home>
+- TryGPT 首页：<https://trygpt.asia/>
 - CSDN 原文：<https://blog.csdn.net/xianyu120/article/details/167808730>
 
 ---
